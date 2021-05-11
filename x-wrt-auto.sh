@@ -13,7 +13,7 @@ wget https://github.com/279192434/x-wrt/raw/main/x-wrt-x86-64-generic-ext4-combi
 
 
 #下载内核执行脚本
-wget https://raw.githubusercontent.com/279192434/ikuai/main/x-wrt-install-vps.sh
+wget https://raw.githubusercontent.com/279192434/x-wrt/main/x-wrt-install-vps.sh
 
 #获取内核版本
 Ker=$(uname -r)
