@@ -1,5 +1,7 @@
 # x-wrt云服务器一键安装
 wget https://raw.githubusercontent.com/279192434/x-wrt/main/x-wrt-auto.sh && chmod 777 x-wrt-auto.sh && ./x-wrt-auto.sh
+# x-wrt云服务器本地一键安装
+wget https://raw.githubusercontent.com/279192434/x-wrt/main/install-wrt.sh && chmod 777 install-wrt.sh && ./install-wrt.sh
 # 腾讯轻量云安装ikuai教程(其它服务器也可以)
 wget https://raw.githubusercontent.com/279192434/x-wrt/main/ikuai.sh && chmod 777 ikuai.sh && ./ikuai.sh
 # 本地linux服务器安装ikuai教程
